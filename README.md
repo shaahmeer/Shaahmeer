@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaahmeer
-- 👀 I’m interested in Java and Android development
-- 🌱 I’m currently learning Android dvelopment with java
+- 👀 I’m interested in Java and Kotlin Android development
+- 🌱 I’m currently learning Android dvelopment with java and Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
